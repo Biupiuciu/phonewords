@@ -1,4 +1,4 @@
-# 📞 Phonewords
+# Phonewords
 
 Convert phone numbers into possible "Phoneword" combinations using a dictionary of words.
 
