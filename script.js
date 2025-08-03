@@ -67,9 +67,11 @@ function readPhoneNumbers(file, callback) {
       });
 
   rl.on("line", (line) => {
+    console.log(line,':');
     const number = line.replace(/[^0-9]/g, "");
     if (number.length === 0) return;
     callback(number);
+     console.log('');
   });
   rl.on("close", () => {});
 }
