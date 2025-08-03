@@ -41,7 +41,7 @@ node script.js -dictionary dictionary.txt input.txt
 node script.js -dictionary dictionary.txt
 ```
 
-Then type phone numbers directly (one per line), and press Ctrl+D (Linux/macOS) or Ctrl+Z (Windows) when done.
+Then type phone numbers directly (one per line).
 
 ## Input Format
 
